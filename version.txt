@@ -1,5 +1,1 @@
-3.1_kt MOUSE
-HDJ
-GSJSJ
-GSJS
-HS
+MOUSE 3.1_(krtw)
