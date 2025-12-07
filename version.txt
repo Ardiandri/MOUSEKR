@@ -1,4 +1,1 @@
-4.0 MOUSE
-hdkd
-bdjs
-hehs
+MPUSE 4.0
