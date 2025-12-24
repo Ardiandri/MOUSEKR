@@ -1,6 +1,1 @@
-MouseCheat 6.0.0
-hxjd
-hdjd
-hsj
-hjd
-hjs
+7.0 MouseCheat
