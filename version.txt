@@ -1,6 +1,1 @@
-MouseCheat 7.0
-hddk
-hdj
-hdjd
-hdjd
-hdjd
+7.1 MouseCheat
