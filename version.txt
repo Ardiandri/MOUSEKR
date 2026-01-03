@@ -1,6 +1,1 @@
-MouseCheat 8.0
-gaks
-hdk
-gsj
-hsjs
-gsjs
+80_MouseCheat
